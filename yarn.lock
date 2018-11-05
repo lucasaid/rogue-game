@@ -20,6 +20,10 @@
   version "10.12.2"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-10.12.2.tgz#d77f9faa027cadad9c912cd47f4f8b07b0fb0864"
 
+"@types/rot-js@^0.6.4":
+  version "0.6.4"
+  resolved "https://registry.yarnpkg.com/@types/rot-js/-/rot-js-0.6.4.tgz#3c1cc64c566656dbdc8b7adb79a3ae46cfcfbd6f"
+
 "@webassemblyjs/ast@1.7.11":
   version "1.7.11"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/ast/-/ast-1.7.11.tgz#b988582cafbb2b095e8b556526f30c90d057cace"
@@ -5924,6 +5928,10 @@ ripemd160@^2.0.0, ripemd160@^2.0.1:
   dependencies:
     hash-base "^3.0.0"
     inherits "^2.0.1"
+
+rot-js@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/rot-js/-/rot-js-2.0.0.tgz#2c4af5f3428ee1da4a375b9d9e814550926d1485"
 
 run-async@^2.2.0:
   version "2.3.0"

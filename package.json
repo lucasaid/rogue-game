@@ -21,6 +21,7 @@
   },
   "devDependencies": {
     "@types/node": "^10.12.2",
+    "@types/rot-js": "^0.6.4",
     "autoprefixer": "^9.3.1",
     "commitizen": "^3.0.4",
     "css-hot-loader": "^1.4.2",
@@ -33,6 +34,7 @@
     "optimize-css-assets-webpack-plugin": "^5.0.1",
     "postcss-loader": "^3.0.0",
     "prettier": "^1.14.3",
+    "rot-js": "^2.0.0",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
     "ts-loader": "^5.3.0",
